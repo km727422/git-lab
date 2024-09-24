@@ -61,3 +61,6 @@ answer 10 = no
 
 answer 11 = There was an error. The updates were rejected because they were done on github, so they cannot be accessed in the local file with the "push" command.
 
+answer 12 = yes
+
+answer 13 = . .. .git .gitignore README.md
